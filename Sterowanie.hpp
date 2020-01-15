@@ -6,6 +6,3 @@ enum class Sterowanie {
 
 #endif
 
-/*
-enum typ wyliczeniowy zawierajacy liste wartosci
-*/
