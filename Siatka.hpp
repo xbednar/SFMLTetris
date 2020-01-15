@@ -50,10 +50,3 @@ private:
 #endif 
 
 
-/*
-std::map<K, V> mapuje klucz typu K na jakas dowolna wartosc typu V, która nie bierze udzialu w porzadkowaniu kontenera,
-ani wyszukiwaniu
-
-unique_ptr - 1 wsk tego typu na obiekt, kiedy przestaje isniec wsk usuwany jest obiekt na ktory wsk pokazywal
-a pamiec jest zwalniana,
-*/
